@@ -1,6 +1,7 @@
 # JPMC-Software-Engineering-Virtual-Experience
-This repository contains all the tasks assigned in JPMC Virtual Software Experience Program. 
-(All the necessary changes to be made are done the files uploaded in the respective repository here)
+This repository contains solution to all the tasks assigned in JPMC Virtual Software Experience Program.
+
+(All the necessary changes that are to be made in different files are done, and they are uploaded in their respective Modules)
 
 **TASK - 1:**
 
