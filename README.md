@@ -6,11 +6,11 @@ TASK - 1:
 Make changes in client.py, client_test.py and server.py files. 
 Create a patch File.
 
-TASK-2:
+TASK - 2:
 Make changes in DataStreamet.ts, graph.tsx files
 Create a Patch File.
 
-Task-3:
+TASK - 3:
 Make changes in Graph.tsx, DataManipulator.ts files
 Create a Patch File.
 
